@@ -1,8 +1,3 @@
-# JS-Basics-Practice
-
-
-#BELOW IS MY REACT ETP QUESTION.(USERPROFILE WITH USESTATE)
-
 import { useState } from "react";
 
 function UserProfile() {
